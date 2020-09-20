@@ -1,2 +1,2 @@
 # MyPortfolio.github.io
-My Responsive portfolio
+My Responsive portfoli

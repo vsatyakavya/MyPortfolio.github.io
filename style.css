@@ -10,8 +10,12 @@
     margin-bottom: 40px;
     
 }
-footer{
-    font-size: 10px;
-   background-color:#6c757d;
-
+h6{
+    font-size: 16px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
+
+footer{
+    text-align:center;
+    background-color: #6c757d;
+  }
