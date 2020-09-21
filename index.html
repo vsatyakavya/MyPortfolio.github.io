@@ -17,10 +17,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Ranchers&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
 </head>
 
-<body style="background-color:#f8f9fa">
-
+<body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-info">
         <a class="navbar-brand" href="#">satyakavya</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
@@ -29,15 +31,16 @@
         </button>
 
 
+        <!-- Collapsible button -->
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ml-auto">
 
-
+                <!-- The links of our navbar -->
                 <li class="nav-item ">
                     <a class="nav-link" href="contact.html">contact<span class="sr-only">(current)</span></a>
                 </li>
 
-                <li class="nav-item  ">
+                <li class="nav-item ">
                     <a class="nav-link" href="portfolio.html">Portfolio</a>
                 </li>
 
@@ -50,39 +53,48 @@
             </ul>
         </div>
     </nav>
+
     <div class="container">
         <div class="row">
-            <div class="col-md-6" style="background-color:#fff">
-                <div class="col-md-12">
-                    <h1 style="color:cadetblue">About Me</h1>
-                    <img src="kavya.jpg" class="rounded float-left" alt="kavya" style="margin-right: 10px;">
+            <div class="col-md-6" style="background-color:#eee">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 id="aboutme" style="text-align:center ;padding:5px;">About Me</h1>
+                    </div>
+                </div>
 
-                    <h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam repudiandae mollitia aliquam
-                        blanditiis consectetur consequatur magni ratione vitae atque nisi harum, possimus, delectus fuga
-                        ullam aspernatur provident debitis nemo porro.
-                        Dolores aliquam animi inventore? Quis perferendis nihil ducimus laudantium voluptas quam fugiat
-                        eum odit quasi accusamus neque sit tempora, aliquam voluptates veritatis dolorem eos modi nam
-                        distinctio iure optio possimus!
-                        Quaerat qui placeat reiciendis. Ea aperiam vel veritatis nihil quod, odit, consequatur qui
-                        molestiae cum doloribus repellat atque nemo. Nihil perspiciatis rem exercitationem, ipsam
-                        expedita repudiandae sunt aliquid tempore nemo!
-                        Eius repellat provident sed blanditiis. Ipsam perferendis officia maiores temporibus est.
-                        Distinctio, tenetur magnam ipsam ex animi possimus reiciendis mollitia, necessitatibus placeat
-                        quas facilis hic sapiente alias ipsa recusandae nesciunt?</h6>
+
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="kavya.jpg" class=" img-fluid rounded mx-auto d-block rounded-circle" alt="kavya"
+                            style="margin-right: 10px;">
+                        <h5>Satya kavya</h5>
+                        <p>I have done my under graduation in computer Science in India. I have done my college project in
+                            vb.net about my college. 
+                            I have 1 year experience as a computer trainer. I'm a student of UT Austin coding
+                            bootcamp. 
+                            My dream is to work in software industry. My goal is to become a great web develope.r</p>
+                        <p>I like to play ping pong, carroms and board games like sequence. </p>
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- <footer class="container-fluid">
-            <nav class="navbar fixed-bottom">
-                @copyright
-            </nav>
-          </footer> -->
-
     </div>
 
-</body><footer>
-    <small style="background-color: gray;"> 
-        @Copyright2020
-    </small>
-</footer>
+     <div class="row">
+        <div class="col-md-12">
+            <nav class="navbar fixed-bottom" style="background-color: gray;">
+                <h6 style="text-align:center;"> @</h6>
+            </nav>
+        </div>
+    </div>
+    <nav class="navbar fixed-bottom" style="background-color: gray;">
+        <small>@copyright2020</small>
+    </nav>
+
+</body>
+
+
+
 </html>
