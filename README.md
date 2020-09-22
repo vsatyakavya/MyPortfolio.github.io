@@ -25,10 +25,11 @@ My Responsive portfolio
 ![picture](contact.png)
 
 # Github Page 
+https://vsatyakavya.github.io/MyPortfolio.github.io/
 
 
 # Github Repository
 
-
+https://github.com/vsatyakavya/MyPortfolio.github.io
 
 copyright 2020
