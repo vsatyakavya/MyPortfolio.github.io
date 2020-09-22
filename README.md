@@ -1,6 +1,3 @@
-# MyPortfolio.github.io
-My Responsive portfolio
-
 # Application Does:
 * Responsive Portfolio using Bootstrap.
 
