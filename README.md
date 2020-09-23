@@ -12,6 +12,7 @@
 * Navbar consistent on each page.
 * sticky footer
 * Google Fonts
+* Responsive Layout
 
 
 # Challenges:
