@@ -1,5 +1,5 @@
 # Application Does:
-* Responsive Portfolio using Bootstrap.
+* Responsive Portfolio
 
 # Technologies used:
 * HTML, CSS, Bootstrap
