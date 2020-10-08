@@ -30,4 +30,7 @@ https://vsatyakavya.github.io/MyPortfolio.github.io/
 
 https://github.com/vsatyakavya/MyPortfolio.github.io
 
+# Contact 
+satyakavya24@gmail.com
+
 copyright 2020
