@@ -20,7 +20,7 @@
 * Validators 
 
 # Sample web page
-![picture](contact.png)
+![picture](Assets/contact.png)
 
 # Github Page 
 https://vsatyakavya.github.io/MyPortfolio.github.io/
