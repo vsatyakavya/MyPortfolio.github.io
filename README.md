@@ -22,6 +22,12 @@
 # Sample web page
 ![picture](Assets/contact.png)
 
+
+![picture](Assets/mapandplaces.png)
+![picture](Assets/MyTeam.png)
+
+
+
 # Github Page 
 https://vsatyakavya.github.io/MyPortfolio.github.io/
 
