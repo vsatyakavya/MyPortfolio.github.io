@@ -20,6 +20,8 @@
 * Validators 
 
 # Sample web page
+![picture](Assets/login.png)
+
 ![picture](Assets/contact.png)
 
 
