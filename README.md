@@ -13,6 +13,9 @@
 * sticky footer
 * Google Fonts
 * Responsive Layout
+* Projects Github and Heroku Links
+* Projects Screenshots
+* Resume, Github and LinkedIn Links
 
 
 # Challenges:
